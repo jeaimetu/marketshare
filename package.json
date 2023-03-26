@@ -1,6 +1,9 @@
 {
   "name": "market-share",
   "version": "0.0.1",
+  "engines":{
+    "node": "18.x"
+  }
   "dependencies": {
     "body-parser": "^1.8.1",
     "express": "^4.9.0",
